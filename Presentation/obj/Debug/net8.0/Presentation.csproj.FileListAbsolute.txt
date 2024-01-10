@@ -31,3 +31,11 @@
 /Users/home/DA/ebay-ecommerce-system/Presentation/obj/Debug/net8.0/Presentation.pdb
 /Users/home/DA/ebay-ecommerce-system/Presentation/obj/Debug/net8.0/Presentation.genruntimeconfig.cache
 /Users/home/DA/ebay-ecommerce-system/Presentation/obj/Debug/net8.0/ref/Presentation.dll
+/Users/home/DA/ebay-ecommerce-system/Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/home/DA/ebay-ecommerce-system/Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/home/DA/ebay-ecommerce-system/Presentation/bin/Debug/net8.0/Application.dll
+/Users/home/DA/ebay-ecommerce-system/Presentation/bin/Debug/net8.0/Domain.dll
+/Users/home/DA/ebay-ecommerce-system/Presentation/bin/Debug/net8.0/Insfrastructure.dll
+/Users/home/DA/ebay-ecommerce-system/Presentation/bin/Debug/net8.0/Application.pdb
+/Users/home/DA/ebay-ecommerce-system/Presentation/bin/Debug/net8.0/Insfrastructure.pdb
+/Users/home/DA/ebay-ecommerce-system/Presentation/bin/Debug/net8.0/Domain.pdb

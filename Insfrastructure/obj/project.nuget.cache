@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "phYuFPbj+n5ple0/ksWgkwxFozcsGfwZr4A/ZTH8/WK2mtEayIoVu3ht4sfey2OM3+7WGBez8AlxAFUkXUkDow==",
-  "success": true,
+  "dgSpecHash": "8wPZAE2+7ygek7CbyAXzCejtuOvvQfEwzldYLWEzQJzQKGZ5A+I4IOhZyvKRr+6jXXVJl6SSAeCkmN5hoazmXA==",
+  "success": false,
   "projectFilePath": "/Users/home/DA/ebay-ecommerce-system/Insfrastructure/Insfrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/home/.nuget/packages/microsoft.entityframeworkcore/8.0.0/microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
@@ -16,5 +16,15 @@
     "/Users/home/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
     "/Users/home/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: Microsoft.EntityFrameworkCore from 8.0.1 to 8.0.0. Reference the package directly from the project to select a different version. \n Insfrastructure -> Domain -> Microsoft.EntityFrameworkCore (>= 8.0.1) \n Insfrastructure -> Microsoft.EntityFrameworkCore (>= 8.0.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,17 @@
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/bin/Debug/net8.0/Insfrastructure.deps.json
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/bin/Debug/net8.0/Insfrastructure.dll
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/bin/Debug/net8.0/Insfrastructure.pdb
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/bin/Debug/net8.0/Application.dll
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/bin/Debug/net8.0/Domain.dll
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/bin/Debug/net8.0/Application.pdb
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/bin/Debug/net8.0/Domain.pdb
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/obj/Debug/net8.0/Insfrastructure.csproj.AssemblyReference.cache
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/obj/Debug/net8.0/Insfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/obj/Debug/net8.0/Insfrastructure.AssemblyInfoInputs.cache
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/obj/Debug/net8.0/Insfrastructure.AssemblyInfo.cs
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/obj/Debug/net8.0/Insfrastructure.csproj.CoreCompileInputs.cache
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/obj/Debug/net8.0/Insfrastructure.csproj.CopyComplete
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/obj/Debug/net8.0/Insfrastructure.dll
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/obj/Debug/net8.0/refint/Insfrastructure.dll
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/obj/Debug/net8.0/Insfrastructure.pdb
+/Users/home/DA/ebay-ecommerce-system/Insfrastructure/obj/Debug/net8.0/ref/Insfrastructure.dll
